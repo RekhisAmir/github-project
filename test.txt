@@ -1,0 +1,22 @@
+1- mkdir learn_git_again
+2- cd learn_git_again
+3- cd .>third.txt
+4- cd..
+5- cd learn_git_again
+6- git init
+7- git add .
+8- git commit -m "add third.txt"
+9- cd .>fourth.txt
+10- git init
+11- git add .
+12- git commit -m "add fourth.txt"
+13- git log
+14- git status
+15- git rm "third.txt"
+16- git add .
+17- git commit -m "removeing third.txt"
+18- git log
+19- git config --global core .pager 'cat'
+20- git config
+21- git config global
+
